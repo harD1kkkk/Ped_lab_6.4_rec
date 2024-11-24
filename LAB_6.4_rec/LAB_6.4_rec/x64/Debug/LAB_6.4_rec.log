@@ -1,0 +1,3 @@
+﻿  lab_6.4_rec.cpp
+C:\Users\arthu\source\repos\Ped\LAB_6.4_rec\LAB_6.4_rec\lab_6.4_rec.cpp(94,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LAB_6.4_rec.vcxproj -> C:\Users\arthu\source\repos\Ped\LAB_6.4_rec\x64\Debug\LAB_6.4_rec.exe
